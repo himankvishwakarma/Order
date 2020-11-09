@@ -12,4 +12,4 @@
 </head>
 
 <body>
-	<h1>Simple Database App - ORDER</h1>
+	<h1>ORDER APP</h1>
